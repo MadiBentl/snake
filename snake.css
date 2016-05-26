@@ -1,0 +1,16 @@
+*{
+	font-family:Helvetica, sans-serif;
+}
+
+.snake{
+	background-color:blue !important;
+}
+.foodstuff{
+	background-color: white !important;
+}
+hi {
+	margin: 0 auto !important;
+}
+span{
+	color:red;
+}
